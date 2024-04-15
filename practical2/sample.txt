@@ -1,0 +1,8 @@
+Writing to a file in Python
+There are two ways to write in a file:
+a)Using write()
+b)Using writelines()
+
+# Writing to a Python Text File Using write()
+write() : Inserts the string str1 in a single line in the text file.
+File_object.write(str1)
